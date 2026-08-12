@@ -1265,9 +1265,9 @@
   result: ClothingEyesGlassesSunglasses
 
 - type: latheRecipe
-  id: ClothingEyesHudBountyHunter
+  id: ASClothingEyesHudUniversal # Aurora's Song - Universal Status HUD
   parent: NFBaseWearableDeviceRecipe
-  result: ClothingEyesHudBountyHunter
+  result: ASClothingEyesHudUniversal # Aurora's Song - Universal Status HUD
 
 - type: latheRecipe
   id: ClothingEyesPunkGoggles
