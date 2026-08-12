@@ -24,6 +24,10 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: ShowHealthBars
+    damageContainers:
+    - Inorganic
+    - Silicon
+    - HumanoidSilicon # DeltaV - IPCs
   - type: ShowHealthIcons
 
 - type: entity

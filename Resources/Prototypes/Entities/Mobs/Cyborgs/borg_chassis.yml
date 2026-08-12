@@ -141,7 +141,6 @@
           - BorgModuleSyndicate
       hasMindState: synd_medical_e
       noMindState: synd_medical
-    - type: ShowHealthBars
     - type: InteractionPopup
       interactSuccessString: petting-success-syndicate-cyborg
       interactFailureString: petting-failure-syndicate-cyborg
