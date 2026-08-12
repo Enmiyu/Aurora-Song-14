@@ -71,5 +71,6 @@
     - Inorganic
     - Silicon
     - HumanoidSilicon
+  - type: ShowHealthIcons
   - type: ShowJobIcons
   - type: ShowAccessReaderSettings
